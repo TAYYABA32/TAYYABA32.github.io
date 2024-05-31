@@ -219,7 +219,7 @@ header.shadow {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
-  gap: 6rem;
+  gap: 10%;
   margin-top: 4rem;
 }
 
